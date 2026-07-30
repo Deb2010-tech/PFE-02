@@ -1,7 +1,16 @@
+body{
+    background-color: cadetblue;
+}
 nav ul{
     display:flex;
     list-style: none;
     gap: 20px;
+    position: sticky;
+    top:0px;
+}
+
+nav{
+    background-color: rgb(179, 31, 31);
     position: sticky;
     top:0px;
 }
