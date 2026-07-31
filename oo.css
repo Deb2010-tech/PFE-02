@@ -1,5 +1,6 @@
 body{
     background-color: rgba(0, 189, 247, 0.459);
+    margin:0%
 }
 nav ul{
     display:flex;
@@ -14,7 +15,7 @@ nav{
     background-color: rgb(0, 98, 255);
     position: sticky;
     top:0px;
-    margin: 0px
+    margin: 0%;
 }
 
 
